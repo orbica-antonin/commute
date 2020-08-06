@@ -1,0 +1,18 @@
+{
+	"img": {
+		"Work_at_home": "f015",
+		"Drive_a_private_car_truck_or_van": "f1b9",
+		"Drive_a_company_car_truck_or_van": "f63c",
+		"Passenger_in_a_car_truck_van_or_company_bus": "f500",
+		"Public_bus": "f207",
+		"Train": "f238",
+		"Bicycle": "f206",
+		"Walk_or_jog": "f554",
+		"Ferry": "f21a",
+		"Other": "f128",
+		"Study_at_home": "f965" ,
+		"Drive_a_car_truck_or_van":  "f1b9",
+		"Passenger_in_a_car_truck_or_van": "f500",
+		"School_bus": "f55e"
+	}
+}
